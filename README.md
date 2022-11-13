@@ -5,7 +5,7 @@
 
 ![](https://github.com/DreamTom/InternetInterview/blob/main/yymsb.jpg?raw=true)
 
-避免失联可以点个star
+避免失联可以点个star，若想自己上传题目请[打开链接](https:/www.vintom.cn)，使用微信扫描登录
 
 PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈入口还未开发完成，有任何问题可先提issue
 
