@@ -11,11 +11,7 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 我们的小程序是长这个样子的🤡
 
-![](https://github.com/DreamTom/InternetInterview/blob/main/1.jpg?raw=true)
-
-![](https://github.com/DreamTom/InternetInterview/blob/main/2.jpg?raw=true)
-
-![](https://github.com/DreamTom/InternetInterview/blob/main/3.jpg?raw=true)
+![](https://github.com/DreamTom/InternetInterview/blob/main/1.jpg?raw=true)![](https://github.com/DreamTom/InternetInterview/blob/main/2.jpg?raw=true)![](https://github.com/DreamTom/InternetInterview/blob/main/3.jpg?raw=true)
 
 ## 为什么做这个小程序？
 
