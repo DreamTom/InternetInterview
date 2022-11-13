@@ -39,6 +39,8 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 #### Go
 
+------
+
 ### 前端开发
 
 #### Vue
@@ -61,6 +63,8 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 ### 高频面试
 
+------
+
 #### Git
 
 #### 计算机网络
@@ -77,6 +81,8 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 #### 数据结构
 
+------
+
 ### 移动开发
 
 #### 小程序
@@ -86,6 +92,8 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 #### Android
 
 #### IOS
+
+------
 
 ### 人工智能
 
@@ -103,7 +111,7 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 一分也是爱，为我弱小的服务器增加1kb的带宽，hhhh
 
-![](https://raw.githubusercontent.com/DreamTom/InternetInterview/4e1eae81e10612f9590bd6f18b9ee7fbddfabf30/tip.jpg)
+![](https://github.com/DreamTom/InternetInterview/blob/main/tip.jpg?raw=true)
 
 ### 鸣谢
 
