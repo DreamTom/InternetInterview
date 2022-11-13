@@ -113,9 +113,7 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 ------
 
-本小程序后台管理引用WTM框架，一个优秀的后台管理框架，有兴趣的.NETER可以
-
-[点此查看]: https://wtmdoc.walkingtec.cn/
+本小程序后台管理引用WTM框架，一个优秀的后台管理框架，有兴趣的.NETER可以 [点此查看]: https://wtmdoc.walkingtec.cn/	"优秀的开源.NET框架"
 
 
 
