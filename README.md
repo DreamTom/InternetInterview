@@ -119,11 +119,11 @@ PS：小程序更多功能还在陆续开发中，目前小程序内评论反馈
 
 ------
 
-本小程序后台管理引用WTM框架，一个优秀的后台管理框架，有兴趣的.NETER可以 [点此查看](https://wtmdoc.walkingtec.cn/)
-小程序前端使用[Lin UI](https://github.com/TaleLin/lin-ui)框架，一个轻量的小程序框架
-PC端markdonw编辑器使用[Vditor](https://ld246.com/article/1549638745630)组件
-小程序markdown渲染使用[towxml](https://github.com/sbfkcel/towxml)
-感谢各位作者的开源！！！
+- 本小程序后台管理引用WTM框架，一个优秀的后台管理框架，有兴趣的.NETER可以 [点此查看](https://wtmdoc.walkingtec.cn/)
+- 小程序前端使用[Lin UI](https://github.com/TaleLin/lin-ui)框架，一个轻量的小程序框架
+- PC端markdonw编辑器使用[Vditor](https://ld246.com/article/1549638745630)组件
+- 小程序markdown渲染使用[towxml](https://github.com/sbfkcel/towxml)
+- 感谢各位作者的开源！！！
 
 ### 特此声明
 
