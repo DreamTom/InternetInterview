@@ -3,7 +3,7 @@
 
 先show一下小程序的进入方式，扫描下方小程序码即可进入，或微信搜索“**猿猿面试帮**”进入
 
-![](https://github.com/DreamTom/InternetInterview/blob/main/yymsb.jpg?raw=true)
+![](https://github.com/DreamTom/InternetInterview/blob/main/yymsb.png?raw=true)
 
 避免失联可以点个star，若想自己上传题目请打开链接[IntAss网站](https://www.vintom.cn/)，使用微信扫描登录添加题目
 
